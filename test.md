@@ -18,3 +18,10 @@ In our case for a loan, we must integrate over a range of utilizations because e
 To get the true rate charged on these loans, we need to de-annualize it to get the percentage:
 
 <img src="https://render.githubusercontent.com/render/math?math=R^w_t = (1 %2b R^a_t)^{\frac{1}{52}} %2d 1">
+
+
+| Asset | <img src="https://render.githubusercontent.com/render/math?math=\bar{U}">  | <img src="https://render.githubusercontent.com/render/math?math=R_0">  | <img src="https://render.githubusercontent.com/render/math?math=R_1">  |
+| ----- | --- | --- | --- |
+| ETH   | 65% | 0%  | 8%  |
+| USDC  | 80% | 0%  | 4%  |
+| UMA   | 50% | 0%  | 5%  |
